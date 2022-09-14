@@ -7,7 +7,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-    <script src="Scripts/jquery-2.1.4.js"></script>
+    <script src="Scripts/jquery-3.6.0.js"></script>
 </head>
 <body>
     <form id="form1" runat="server">
